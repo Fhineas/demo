@@ -4,4 +4,8 @@ hello
 2
 add dev
 
-add fearture2
+<<<<<<< HEAD
+add some
+=======
+add some
+>>>>>>> feature1
