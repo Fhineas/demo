@@ -2,3 +2,5 @@ vim
 coming
 
 commit -a
+
+stash
